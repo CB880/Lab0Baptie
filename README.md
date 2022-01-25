@@ -1,5 +1,6 @@
 Caden Baptie Project 0
 My web application was created based on past NFL superbowl winners and those that have competed for it since its inception in 1966, there is a list of superbowl winners and those who played in them in the PreviousSuperbowlmatchups.html file. The CurrentPlayoffsField.html contains images of the teams who made the playoffs as well as a playoff bracket of who is remaining and who has been eliminated. The FranchiseWins.html file contains the two bootstrap columns on franchise and their total super bowl wins along with an unordered list of those who have yet to win a Superbowl. The index.html file simply contains information about the purpose of web applications along with an image of previous superbowl logos. I have a sheet.css file and a sheet.scss file containing the code for the various variable and properties requirements for each outlined in the lab. The bootstrap component I used was the code for the nav bar present on all of my html pages. 
-Bootstrap navbar code retrieved from https://getbootstrap.com/docs/4.6/components/navbar/
-lsit of superbowl winners and franchise wins retrieved from https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions 
+Bootstrap navbar code retrieved from https://getbootstrap.com/docs/4.6/components/navbar/.
+lsit of superbowl winners and franchise wins retrieved from https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions. 
+Image sources are given in the alt.
 ENGO 551 - Adv. Topics on Geospatial Technologies
