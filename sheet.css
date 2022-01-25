@@ -1,0 +1,36 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+.class1 {
+  font-family: fantasy;
+}
+
+#id1 {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: royalblue;
+  }
+}
+.row .col-sm {
+  font-family: monospace;
+}
+
+/*# sourceMappingURL=sheet.css.map */

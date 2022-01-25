@@ -1,0 +1,27 @@
+body {background-color: powderblue}
+h1 {color: black; text-align: center }
+p {color: black; text-align:center;}
+ul {text-align: center;}
+
+.class1 {
+  font-family: fantasy;
+}
+#id1 {font-weight: bold;}
+
+$mobilecolor: royalblue;
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: $mobilecolor;
+    }
+  }
+
+%funfont {
+  font-family: monospace;
+}
+
+.row {
+  .col-sm {
+    @extend %funfont;
+  }
+}
